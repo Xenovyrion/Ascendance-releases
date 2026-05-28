@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src-tauri/icons/128x128.png" width="96" alt="Ascendance" />
+  <img src="Ascendance_logo.png" width="96" alt="Ascendance" />
 </p>
 
 <h1 align="center">Ascendance</h1>
